@@ -1,4 +1,5 @@
 ## Update log
+Please note: this does not get updated frequently
 <details>
 <summary> v0.017 (30.2E.30.31.37 | released)</summary>
 
